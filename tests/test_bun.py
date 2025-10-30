@@ -1,6 +1,4 @@
-import pytest
 from data import data
-from praktikum.bun import Bun
 
 
 class TestBun:

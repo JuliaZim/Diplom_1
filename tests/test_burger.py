@@ -1,8 +1,6 @@
-import pytest
 from praktikum.burger import Burger
 from data import data
-from praktikum.bun import Bun
-from praktikum.ingredient import Ingredient
+
 
 
 class TestBurger:

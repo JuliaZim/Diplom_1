@@ -4,7 +4,7 @@ from data import data
 from praktikum.burger import Burger
 from praktikum.ingredient import Ingredient
 from praktikum.database import Database
-from typing import List
+
 
 #Создаем объект булочки
 @pytest.fixture
